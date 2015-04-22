@@ -1,1 +1,7 @@
-[]
+[
+  "ascii.coffee",
+  "location-decision-maker.coffee",
+  "roll.coffee",
+  "room-info.coffee",
+  "scrumnotes.coffee"
+]
